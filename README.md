@@ -8,11 +8,11 @@ An updated version of my portfolio with links to my github, linkedin, resume, an
 
 ## Demo
 
-![Demo](demo.jpg)
+![Demo](/assets/images/demo.jpg)
 
 ## Deployement
 
-https://alexshafer.github.io/responsive-portfolio-two-coding-boogaloo/portfolio.html
+ https://alexshafer.github.io/responsive-portfolio-three-back-for-vengeance/
 
 ## Table of Contents
 
