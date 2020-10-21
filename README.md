@@ -8,7 +8,7 @@ An updated version of my portfolio with links to my github, linkedin, resume, an
 
 ## Demo
 
-![Demo](demo.jpg)
+![Demo](assets/images/demo.jpg)
 
 ## Deployement
 
