@@ -1,6 +1,6 @@
 #  responsive-portfolio-two-coding-boogaloo
 
-![READle-ME-this](https://img.shields.io/github/last-commit/AlexShafer/responsive-portfolio-two-coding-boogaloo)
+![READle-ME-this](https://img.shields.io/github/last-commit/AlexShafer/responsive-portfolio-three-back-for-vengeance/)
 
 ## Description
 
@@ -12,7 +12,7 @@ An updated version of my portfolio with links to my github, linkedin, resume, an
 
 ## Deployement
 
-https://alexshafer.github.io/responsive-portfolio-two-coding-boogaloo/portfolio.html
+https://alexshafer.github.io/responsive-portfolio-three-back-for-vengeance/
 
 ## Table of Contents
 
