@@ -1,6 +1,6 @@
-#  responsive-portfolio-three-back-for-vengeance/
+#  responsive-portfolio-three-back-for-vengeance
 
-![READle-ME-this](https://img.shields.io/github/last-commit/AlexShafer/responsive-portfolio-three-back-for-vengeance/)
+![READle-ME-this](https://img.shields.io/github/last-commit/AlexShafer/responsive-portfolio-three-back-for-vengeance)
 
 ## Description
 
